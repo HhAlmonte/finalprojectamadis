@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "finalprojectamadis",
-    "slug": "finalprojectamadis",
+    "name": "Turism App",
+    "slug": "transit-fine",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
